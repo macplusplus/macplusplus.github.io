@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xa0acA37F7Cf2d7e7898fF0Db3A8C1B621CfE618D",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xa0acA37F7Cf2d7e7898fF0Db3A8C1B621CfE618D",
+  "CONTRACT_ADDRESS": "0x568954700EfE0D3fa41e7982F46943bE63916e51",
+  "SCAN_LINK": "https://etherscan.io/address/0x568954700efe0d3fa41e7982f46943be63916e51",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 9999,
   "WEI_COST": 80000000000000000,
   "DISPLAY_COST": 0.08,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 400000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/themetaball",
   "SHOW_BACKGROUND": true
