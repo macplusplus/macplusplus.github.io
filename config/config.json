@@ -6,12 +6,12 @@
     "SYMBOL": "ETH",
     "ID": 1
   },
-  "NFT_NAME": "METABALL",
+  "NFT_NAME": "METABALL Character",
   "SYMBOL": "METABALL",
   "MAX_SUPPLY": 9999,
   "WEI_COST": 80000000000000000,
   "DISPLAY_COST": 0.08,
-  "GAS_LIMIT": 300123,
+  "GAS_LIMIT": 400000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/themetaball",
   "SHOW_BACKGROUND": true
